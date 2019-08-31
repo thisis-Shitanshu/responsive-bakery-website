@@ -25,16 +25,16 @@ Click [here](https://thisis-Shitanshu.github.io/responsive-bakery-website), to v
 
 - The Landing Page
 
-<img src="./screenshots/441-landing.png" width="480px">
+<img src="./screenshots/441-landing.png" width="350px">
 
 - About Section
 
-<img src="./screenshots/441-about.png" width="480px">
+<img src="./screenshots/441-about.png" width="350px">
 
 - The Menu
 
-<img src="./screenshots/441-menu.png" width="480px">
+<img src="./screenshots/441-menu.png" width="350px">
 
 - The Chef Section
 
-<img src="./screenshots/441-chef.png" width="480px">
+<img src="./screenshots/441-chef.png" width="350px">

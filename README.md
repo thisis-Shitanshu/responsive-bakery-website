@@ -1,5 +1,6 @@
 # Responsive Bakery
 A responsive bakey site using Bootstrap and AOS (Animate on Scroll) library.
+Click [here](https://thisis-Shitanshu.github.io/responsive-bakery-website), to visit the project.
 
 # Screenshots
 ## #Desktop View
@@ -24,16 +25,16 @@ A responsive bakey site using Bootstrap and AOS (Animate on Scroll) library.
 
 - The Landing Page
 
-![](./screenshots/441-landing.png)
+<img src="./screenshots/441-landing.png" width="640px">
 
 - About Section
 
-![](./screenshots/441-about.png)
+<img src="./screenshots/441-about.png" width="640px">
 
 - The Menu
 
-![](./screenshots/441-menu.png)
+<img src="./screenshots/441-menu.png" width="640px">
 
 - The Chef Section
 
-![](./screenshots/441-chef.png)
+<img src="./screenshots/441-chef.png" width="640px">
